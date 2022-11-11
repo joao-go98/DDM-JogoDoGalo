@@ -6,6 +6,6 @@ Realizado no âmbito da disciplina de Desenvolvimento para Dispositivos Móveis 
 Como correr
 Download do ZIP ou clone do repo e depois:
 
-  npm install
-  npx react-native start
-  npm run android / npm run ios
+- npm install
+- npx react-native start
+- npm run android / npm run ios
